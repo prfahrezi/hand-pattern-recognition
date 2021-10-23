@@ -1,3 +1,2 @@
-# hand-pattern-recognition
+# Identifikasi pola tangan batu-gunting-kertas
 Proyek akhir Dicoding
-Database kumpulan pola tangan batu-gunting-kertas yang digunakan dalam kode tidak ada di repositori ini
